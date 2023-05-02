@@ -14,9 +14,9 @@ Para el presente trabajo se utilizó un dataset que fue proporcionado por Henry 
 El mismo consta de 444.448 filas y 18 columnas. Para información acerca del contenido del dataset, atributos e información relevante se utilizó el documento denominado
 "Ejercicio Call Center - Descripción del DataSet.docx"
 
-[Dataset (comprimido)](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/Call_Center_1999_DataSet.rar)
+[Dataset (comprimido)](https://github.com/JohanRROT/Call-center-anonymous-bank/blob/main/Call_Center_1999_DataSet.rar)
 
-[Diccionario de datos](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/Ejercicio%20Call%20Center%20-%20Descripci%C3%B3n%20del%20DataSet.docx)
+[Diccionario de datos](https://github.com/JohanRROT/Call-center-anonymous-bank/blob/main/Diccionario%20de%20datos.docx)
 ## Objetivo
 
 El propósito del trabajo fue describir las operaciones del call center en función de las variables del negocio y proponer mejoras para el segmento premium de clientes.
@@ -74,7 +74,7 @@ En la segunda y última página llamada "Segmento Premium" se efectuó un detall
 
 ![Logo](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/premium.PNG?raw=true)
 
-[Visualización página Segmento Premium con tooltip](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/premium%20con%20tooltip.PNG)
+[Visualización página Segmento Premium con tooltip](https://github.com/JohanRROT/Call-center-anonymous-bank/blob/main/Llamadas_primium_3.PNG?raw=true)
 ## Insights
 
 A lo largo del trabajo de análisis, visualización y exploración de datos, arribamos a las siguientes conclusiones:
